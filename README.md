@@ -5,7 +5,7 @@ características del incidente como por ejemplo la distancia, el tipo de vehícu
 
 Pueden consultar los detalles en el siguiente [link](https://paris-fire-brigade.github.io/data-challenge/challenge.html). 
 
-Los datos se se encuentran además en la [esta carpeta compartida](https://drive.google.com/drive/folders/1Q5O4kHjfwNxZ-ib8GQG04seCeBl2ywv4?usp=sharing).
+Los datos se se encuentran además en [esta carpeta compartida](https://drive.google.com/drive/folders/1Q5O4kHjfwNxZ-ib8GQG04seCeBl2ywv4?usp=sharing).
 
 La hipótesis sobre estos datos que nosotros planteamos es la siguiente: predecir el tiempo de respuesta a un incidente puede ser predicho utilizando una regresión 
 (quizás polinomial) sin embargo con fines pedagógicos nos concentraremos en el sencillo caso de las regresiones lineales. 
