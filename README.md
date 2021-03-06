@@ -1,5 +1,7 @@
 # Regresion Robusta para estimar tiempo de respuesta de un servicio de emergencia
 
+El presente repositorio se refiere a un curso sobre regresión robusta, impartido en colaboración con el [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/) 
+
 Los datos fueron obtenidos de un Challenge en el que se pretende predecir el tiempo de respuesta y el tiempo de llegada de los bomberos de acuerdo a distintas 
 características del incidente como por ejemplo la distancia, el tipo de vehículo utilizado, la altura del incidente (en caso de ser un edificio por ejemplo), etc.
 
